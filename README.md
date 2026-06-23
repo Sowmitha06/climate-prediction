@@ -59,7 +59,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/climate-risk-prediction.git
+git clone https://github.com/Sowmitha06/climate-risk-prediction.git
 
 Navigate to the project directory:
 
